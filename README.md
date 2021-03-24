@@ -14,4 +14,4 @@
 - QT03: Tạo nhóm **- Hoàn thành**
 - QT04: Đặt câu hỏi về môn học **- Hoàn thành**
 - QT06: Mong đợi học và làm được gì? **- Hoàn thành**
-- QT07: Góp ý cho phương pháp giảng dạy? **- Hoàn thành**
+- QT07: Góp ý cho phương pháp giảng dạy? **- Hoàn thành****
