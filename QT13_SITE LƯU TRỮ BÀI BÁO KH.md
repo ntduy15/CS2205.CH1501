@@ -15,9 +15,9 @@ Hãy cho biết sự giống nhau và khác nhau giữa các sites như:
 Điểm khác nhau:
 
 - arXiv:
-+Lĩnh vực: vật lý, toán, khoa học máy tính, đo lường sinh học, định lượng tài chính, thống kê, kỹ thuật điện và kinh tế học.
++ Lĩnh vực: vật lý, toán, khoa học máy tính, đo lường sinh học, định lượng tài chính, thống kê, kỹ thuật điện và kinh tế học.
 
-+Nguồn: các tạp chí chuyên ngành
++ Nguồn: các tạp chí chuyên ngành
 
 - CiteSeerX:
 Lĩnh vực: máy tính và khoa học thông tin
