@@ -21,36 +21,43 @@ Hãy cho biết sự giống nhau và khác nhau giữa các sites như:
 +Nguồn: các tạp chí chuyên ngành
 
 - CiteSeerX:
-Lĩnh vực: máy tính và khoa học thông tin
 
-Nguồn: từ các trang công khai
++Lĩnh vực: máy tính và khoa học thông tin
 
-IEEE Xplore
-Lĩnh vực: khoa học máy tính, kỹ thuật điện và điện tử
++Nguồn: từ các trang công khai
 
-Nguồn: tài liệu từ Viện Kỹ sư Điện và Điện tử (IEEE) và Cơ quan Kỹ thuật và Công nghệ
+- IEEE Xplore:
 
-ACM Digital Libary
-Lĩnh vực: khoa học máy tính
++Lĩnh vực: khoa học máy tính, kỹ thuật điện và điện tử
 
-Nguồn: sách, tạp chí, kỷ yếu hội nghị, bản tin, ... của ACM
++Nguồn: tài liệu từ Viện Kỹ sư Điện và Điện tử (IEEE) và Cơ quan Kỹ thuật và Công nghệ
 
-Springer
-Lĩnh vực: khoa học 
+- ACM Digital Libary:
 
-Nguồn:  các ấn phẩm của nhà xuất bản Springer
++Lĩnh vực: khoa học máy tính
 
-Elsevier
-Lĩnh vực: khoa học
++Nguồn: sách, tạp chí, kỷ yếu hội nghị, bản tin, ... của ACM
 
-Nguồn: các ấn phẩm của nhà xuất bản Elsevier
+- Springer:
 
-ResearchGate
-Lĩnh vực: khoa học
++Lĩnh vực: khoa học 
 
-Nguồn: cộng đồng các nhà khoa học đóng góp (phải gửi yêu cầu mới xem được fulltext)
++Nguồn:  các ấn phẩm của nhà xuất bản Springer
 
-Sci-Hub
-Lĩnh vực: tất cả các lĩnh vực
+- Elsevier:
 
-Nguồn: tất cả các loại ấn phẩm chỉ cần nhập DOI
++Lĩnh vực: khoa học
+
++Nguồn: các ấn phẩm của nhà xuất bản Elsevier
+
+- ResearchGate:
+
++Lĩnh vực: khoa học
+
++Nguồn: cộng đồng các nhà khoa học đóng góp (phải gửi yêu cầu mới xem được fulltext)
+
+- Sci-Hub:
+
++Lĩnh vực: tất cả các lĩnh vực
+
++Nguồn: tất cả các loại ấn phẩm chỉ cần nhập DOI
