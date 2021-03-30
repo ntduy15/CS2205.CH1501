@@ -11,7 +11,9 @@ Hãy cho biết sự giống nhau và khác nhau giữa các sites như:
 
 Điểm giống nhau: lưu trữ/xuất bản các bài báo/tài liệu khoa học.
 
+
 Điểm khác nhau:
+
 arXiv:
 Lĩnh vực: vật lý, toán, khoa học máy tính, đo lường sinh học, định lượng tài chính, thống kê, kỹ thuật điện và kinh tế học.
 Nguồn: các tạp chí chuyên ngành
