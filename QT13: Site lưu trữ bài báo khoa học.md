@@ -36,7 +36,7 @@ Hãy cho biết sự giống nhau và khác nhau giữa các sites như:
 
 +Lĩnh vực: khoa học máy tính
 
-+Nguồn: sách, tạp chí, kỷ yếu hội nghị, bản tin, ... của ACM
++Nguồn: sách, tạp chí, hội nghị của ACM
 
 - Springer:
 
