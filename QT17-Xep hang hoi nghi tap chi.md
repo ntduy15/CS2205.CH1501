@@ -1,3 +1,20 @@
+**Câu hỏi:**
+
+Hãy chọn một lĩnh vực nghiên cứu, ví dụ:
+- Computer Vision
+- Machine Learning
+- Data Mining
+- Deep Learning
+- Artificial Intelligence
+- Big Data
+- Image Processing
+- Multimedia Retrieval
+- etc
+
+và tìm các hội nghị, tạp chí uy tín, hàng đầu trong lĩnh vực này
+
+**Trả lời:**
+
 **﻿Lĩnh vực nhóm nghiên cứu: Big Data**
 
 **Các hội nghị, tạp chí uy tín, hàng đầu trong lĩnh vực:**
