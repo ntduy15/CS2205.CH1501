@@ -37,7 +37,7 @@ Mô tả: Hội nghị sẽ nói về tác dụng của một nền tảng côn
 
 **Top báo chí về Big Data**
 **1. Analytics Insight Magazine**
-   Website: https://www.analyticsinsight.net/
+   Website: https://www.analyticsinsight.net/ 
    
 **2. Emerj**
    Website: https://emerj.com/
@@ -46,7 +46,7 @@ Mô tả: Hội nghị sẽ nói về tác dụng của một nền tảng côn
    Website: https://www.dataversity.net/
    
 **4. Datafloq**
-   Website: https://datafloq.com/
+   Website: https://datafloq.com/   
    
 **5. Dataconomy**
    Website: https://dataconomy.com/
