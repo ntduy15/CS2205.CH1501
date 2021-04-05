@@ -34,5 +34,5 @@ Từ các tiêu chí ở trên mà chúng ta có thể tìm một bài phù hợ
 
 **2. Lợi ích khi dùng ConnectedPapers:** 
 
-Do các paper được liên kết với nhau theo biểu đổ như trên, nên chúng ta có một cái nhìn tổng quan về lĩnh vực ta đang đình nghiên cứu. Nó có phổ biến không, có nhiều người nghiên cứu không. Và dựa trên các tiêu trí tìm kiếm ta sẽ tìm kiếm được nhanh hơn, chính xác hơn, tối ưu hơn về bài viết của tác giả.  
+Do các paper được liên kết với nhau theo biểu đổ như trên, nên chúng ta có một cái nhìn tổng quan về lĩnh vực ta đang định nghiên cứu. Nó có phổ biến không, có nhiều người nghiên cứu không. Và dựa trên các tiêu trí tìm kiếm( lượt trích dẫn, độ phổ biến...) ta sẽ tìm kiếm được nhanh hơn, chính xác hơn, tối ưu hơn về bài viết của tác giả.
 
