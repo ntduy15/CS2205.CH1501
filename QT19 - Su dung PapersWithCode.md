@@ -25,7 +25,21 @@ Nó sẽ cho chúng ta các kết quả như sau:
 
 ![image](https://user-images.githubusercontent.com/80680544/113564033-dc17a380-9632-11eb-9d97-6bf9a6d755ab.png)
 
-**c. Tìm kiếm với trang Datasets:**
+**c. Tìm kiếm với trang Datasets:** Trang này sẽ cho chúng ta nhiều tiêu chí hơn để tìm kiếm
+
+![image](https://user-images.githubusercontent.com/80680544/113564195-1e40e500-9633-11eb-9d11-91304295ed3d.png)
+
+**c. Tìm theo trang Methods: ** trang này thì mình tìm kiếm theo phương pháp tiếp cận gần với chủ đề mình quan tâm
+
+![image](https://user-images.githubusercontent.com/80680544/113564363-75df5080-9633-11eb-8a3b-193f928be018.png)
+
+
+**d. Ngoài ra ở trang chủ chúng ta có thể tìm theo: Trending, Latest, Greatest**
+
+![image](https://user-images.githubusercontent.com/80680544/113564486-ade69380-9633-11eb-87fb-347ac137ce48.png)
+
+
+
 
 
 
