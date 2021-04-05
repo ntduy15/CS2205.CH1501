@@ -1,4 +1,4 @@
-**1. minh hoạ một cách sử dụng trang PapersWithCode:**
+**Minh hoạ một cách sử dụng trang PapersWithCode:**
 
 Truy cập https://paperswithcode.com
 
