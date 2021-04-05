@@ -2,7 +2,7 @@
 
 Website: https://www.connectedpapers.com
 
-Cách sử dung:Trong thanh tìm kiếm chúng ta nhập vào đề tài cần tìm sao đó nó sẽ tự gợi ý các bài, hoặc chúng ta có thể bấm enter hoặc bấm “Build a graph”
+Cách sử dung: Trong thanh tìm kiếm chúng ta nhập vào đề tài cần tìm sao đó nó sẽ tự gợi ý các bài, hoặc chúng ta có thể bấm enter hoặc bấm “Build a graph”
 
 ![image](https://user-images.githubusercontent.com/80680544/113561019-2a767380-962e-11eb-8724-0027da190233.png)
 
