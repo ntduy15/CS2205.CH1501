@@ -30,7 +30,7 @@ Màn kêu gọi vốn gây tranh cãi nhất những ngày qua.
    - Ưu điểm sản phẩm: xe dùng gọi là năng lượng xanh, sử dụng pin Lithium-ion. Nếu khách hàng sở hữu sẵn xe đạp thể thao ở nhà thì startup này có thể cung cấp riêng bộ Wiibike Kit, giúp biến bất kỳ chiếc xe đạp thường trở thành xe trợ điện trong vòng 15 phút.
    - Doanh thu: báo cáo kinh doanh tháng 4/2021, Wiibike tăng trưởng hệ thống đại lý tới 10 lần, doanh số tăng 300%.
 
-**b. Phản biện với các Shark:**
+**b. Phản biện với các câu nói của Shark:**
 
   **- Câu nói của Shark Phú:**
 
