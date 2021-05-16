@@ -1,4 +1,4 @@
-**Câu hỏi: **
+**Câu hỏi:**
 
 Áp dụng Tư duy phản biện để phân tích và nhận định của bạn về câu chuyện liên quan đến các câu nói đùa cợt của các doanh nhân Nguyễn Xuân Phú, Phạm Thanh Hưng dành cho nữ CEO gọi vốn trong chương trình Shark Tank Vietnam
 Lưu ý bài phân tích và nhận định cần chú ý áp dụng kỹ năng viết đã học - đảm bảo ngắn gọn, súc tích, tập trung vào vấn đề chính.
