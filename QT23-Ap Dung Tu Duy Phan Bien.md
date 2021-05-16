@@ -18,25 +18,25 @@ Màn kêu gọi vốn gây tranh cãi nhất những ngày qua.
 
 **a. Giới thiệu:**
 
-  **-CEO Wiibike Nguyễn Thị Thu Hằng:**
+  **- CEO Wiibike Nguyễn Thị Thu Hằng:**
 
-     + Học tại trường THPT chuyên Lào Cai (trường có tỷ lệ học sinh đỗ đại học nguyện vọng 1 hàng năm luôn đạt trên 90%).
-     + Đỗ vào Đại học Kinh tế quốc dân, chuyên ngành Marketing(ngành có tỉ lệ chội cao. Năm 2020, điểm chuẩn của ngành này là 27,55)
-     + Trước khi bắt đầu công việc là CEO Wiibike, Nguyễn Thị Thu Hằng từng làm việc tại một thương hiệu bảo hiểm và một ngân hàng lớn.
+   - Học tại trường THPT chuyên Lào Cai (trường có tỷ lệ học sinh đỗ đại học nguyện vọng 1 hàng năm luôn đạt trên 90%).
+   - Đỗ vào Đại học Kinh tế quốc dân, chuyên ngành Marketing(ngành có tỉ lệ chội cao. Năm 2020, điểm chuẩn của ngành này là 27,55)
+   - Trước khi bắt đầu công việc là CEO Wiibike, Nguyễn Thị Thu Hằng từng làm việc tại một thương hiệu bảo hiểm và một ngân hàng lớn.
 
   **- Kết quả kinh doanh Wiibike gần đây:**
 
-    + Lĩnh vực: Xe đạp điện trợ lực.
-    + Ưu điểm sản phẩm: xe dùng gọi là năng lượng xanh, sử dụng pin Lithium-ion. Nếu khách hàng sở hữu sẵn xe đạp thể thao ở nhà thì startup này có thể cung cấp riêng bộ Wiibike Kit, giúp biến bất kỳ chiếc xe đạp thường trở thành xe trợ điện trong vòng 15 phút.
-    + Doanh thu: báo cáo kinh doanh tháng 4/2021, Wiibike tăng trưởng hệ thống đại lý tới 10 lần, doanh số tăng 300%.
+   - Lĩnh vực: Xe đạp điện trợ lực.
+   - Ưu điểm sản phẩm: xe dùng gọi là năng lượng xanh, sử dụng pin Lithium-ion. Nếu khách hàng sở hữu sẵn xe đạp thể thao ở nhà thì startup này có thể cung cấp riêng bộ Wiibike Kit, giúp biến bất kỳ chiếc xe đạp thường trở thành xe trợ điện trong vòng 15 phút.
+   - Doanh thu: báo cáo kinh doanh tháng 4/2021, Wiibike tăng trưởng hệ thống đại lý tới 10 lần, doanh số tăng 300%.
 
 **b. Phản biện với các Shark:**
 
   **- Câu nói của Shark Phú:**
 
-    + "Anh chỉ mải nhìn em nên chẳng thấy gì ở chiếc xe cả" : Câu này là một câu nó vui. Trên một trương trình lớn nếu ai cũng mặt nghiêm hết thì khó thu hút người xem. Theo giới thiệu trên về Nguyễn Thị Thu Hằng ta cũng thấy cô này là một người giỏi từ lúc học trung học tới khi làm CEO Wiibike. Nên câu nói này cũng thể hiện sự tôn trọng sự yêu mếm với thành tích mà CEO đã làm được.
-    + "Em không cần giải thích gì thêm về business. Với anh chỉ cần liếc mắt là biết business nào rồi....": Câu này thì đã thể hiện shark là một người kinh doanh đầy kinh nghiệm. Dựa theo kết quả kinh doanh ở trên ta cũng có thể thấy khả năng thành công của Wiibike này trong tương lai.
+   - "Anh chỉ mải nhìn em nên chẳng thấy gì ở chiếc xe cả" : Câu này là một câu nó vui. Trên một trương trình lớn nếu ai cũng mặt nghiêm hết thì khó thu hút người xem. Theo giới thiệu trên về Nguyễn Thị Thu Hằng ta cũng thấy cô này là một người giỏi từ lúc học trung học tới khi làm CEO Wiibike. Nên câu nói này cũng thể hiện sự tôn trọng sự yêu mếm với thành tích mà CEO đã làm được.
+   - "Em không cần giải thích gì thêm về business. Với anh chỉ cần liếc mắt là biết business nào rồi....": Câu này thì đã thể hiện shark là một người kinh doanh đầy kinh nghiệm. Dựa theo kết quả kinh doanh ở trên ta cũng có thể thấy khả năng thành công của Wiibike này trong tương lai.
 
   **- Câu nói của Shark Hưng:**
 
-    + "Đã nói với Bình ngay từ đầu rồi, cứ sạch, xanh, xinh là xong": Câu nói này thể hiệṇ triết lý kinh doanh của Shark Hưng. Sạch: sản phẩm không ô nhiểm, Xanh: gần với thiên nhiên, Xinh: sản phẩm phải đẹp.
+   - "Đã nói với Bình ngay từ đầu rồi, cứ sạch, xanh, xinh là xong": Câu nói này thể hiệṇ triết lý kinh doanh của Shark Hưng. Sạch: sản phẩm không ô nhiểm, Xanh: gần với thiên nhiên, Xinh: sản phẩm phải đẹp.
