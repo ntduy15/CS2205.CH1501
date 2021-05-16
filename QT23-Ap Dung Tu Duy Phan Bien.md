@@ -35,7 +35,7 @@ Màn kêu gọi vốn gây tranh cãi nhất những ngày qua.
   **- Câu nói của Shark Phú:**
 
    - "Anh chỉ mải nhìn em nên chẳng thấy gì ở chiếc xe cả" : Câu này là một câu nó vui. Trên một trương trình lớn nếu ai cũng mặt nghiêm hết thì khó thu hút người xem. Theo giới thiệu trên về Nguyễn Thị Thu Hằng ta cũng thấy cô này là một người giỏi từ lúc học trung học tới khi làm CEO Wiibike. Nên câu nói này cũng thể hiện sự tôn trọng sự yêu mếm với thành tích mà CEO đã làm được.
-   - "Em không cần giải thích gì thêm về business. Với anh chỉ cần liếc mắt là biết business nào rồi....": Câu này thì đã thể hiện shark là một người kinh doanh đầy kinh nghiệm. Dựa theo kết quả kinh doanh ở trên ta cũng có thể thấy khả năng thành công của Wiibike này trong tương lai.
+   - "Em không cần giải thích gì thêm về business. Với anh chỉ cần liếc mắt là biết business nào rồi....": Câu này thì đã thể hiện shark là một người kinh doanh đầy kinh nghiệm. Dựa theo kết quả kinh doanh ở trên ta cũng có thể thấy khả năng thành công của Wiibike này trong tương lai. Và Nguyễn Thị Thu Hằng đang là một CEO giỏi.
 
   **- Câu nói của Shark Hưng:**
 
