@@ -9,7 +9,11 @@ Bài báo: https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Zhao_
 
 2. Các câu hỏi đặt ra là gì? Đã giải quyết được đến đâu?
 - Các câu hỏi đặt ra:
-
-- Đã giải quyết:
+    - Làm cách nào để biết mà phân cảnh quay?
+    - Nó có làm mất hay làm giảm chất lượng của video kết quả không?
+    - Nó có nhanh không?
+ 
+- Đã giải quyết: Trong khi một số phương pháp tóm tắt hiện có chú ý đến quy trình phân đoạn cảnh quay. Chúng tạo ra các cảnh quay bằng một số chiến lược tầm thường, chẳng hạn như phân đoạn độ dài cố định, có thể phá hủy cấu trúc phân cấp cơ bản của dữ liệu video và làm giảm hơn nữa chất lượng của các bản tóm tắt đã tạo.
 
 3. Ý tưởng giải quyết là gì? Minh hoạ trực quan
+- Để giải quyết vấn đề này trên, chúng tôi đề xuất phương pháp tóm tắt video có cấu trúc tích hợp phân đoạn cảnh quay và tóm tắt video thành Structure-Adaptive RNN, ký hiệu là HSA-RNN.
