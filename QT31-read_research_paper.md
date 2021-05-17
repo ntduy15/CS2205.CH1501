@@ -24,12 +24,8 @@ Bài báo: https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Zhao_
 
 ![image](https://user-images.githubusercontent.com/80680544/118486219-8d861a80-b743-11eb-9dd3-21c23eb206c1.png)
 
-Figure 1. The diagram of the proposed HSA-RNN, where Layer 1
-and Layer 2 are designed to exploit the video structure and generate the video summary, respectively. Specifically, the blue and red
-boxes represent the bidirectional LSTM unit in each layer. The
-dashed boxes indicate the locations of detected shot boundaries.
-The bidirectional LSTM in Layer 1 operates in a sliding manner,
-and the stride at each step is equal to the length of previous detected shot.
+Hình 1. Biểu đồ của phương pháp đề xuất HSA-RNN, Layer 1
+và Layer 2 được thiết kế để khai thác cấu trúc của video và khởi tạo tóm tắt video. Cụ thể, các hộp màu xanh lam và màu đỏ đại diện cho đơn vị LSTM hai chiều trong mỗi lớp. Các ô gạch ngang cho biết vị trí của các đường biên được phát hiện. LSTM hai chiều trong Lớp 1 hoạt động theo cách trượt và sải chân ở mỗi bước bằng với độ dài của ảnh được phát hiện trước đó.
 
 **Hình 2:**
 
