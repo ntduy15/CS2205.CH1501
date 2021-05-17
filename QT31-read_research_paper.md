@@ -3,6 +3,7 @@ Bài báo: https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Zhao_
 
 - Input: một đoạn video.
 - Output: tóm tắc phân đoạn các cảnh quay.
+- Đánh giá cách tiếp cận được đề xuất trên bốn tập dữ liệu phổ biến, tức là SumMe, TVum, CoSum và VTW.
 
 ![image](https://user-images.githubusercontent.com/80680544/118486219-8d861a80-b743-11eb-9dd3-21c23eb206c1.png)
 
