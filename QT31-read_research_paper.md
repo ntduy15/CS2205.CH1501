@@ -9,6 +9,7 @@ Bài báo: https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Zhao_
 ![image](https://user-images.githubusercontent.com/80680544/118486219-8d861a80-b743-11eb-9dd3-21c23eb206c1.png)
 
 **2. Các câu hỏi đặt ra là gì? Đã giải quyết được đến đâu?**
+- Vấn đề: Các phương pháp tổng hợp video hiện tại có thể phá hủy cấu trúc phân cấp cơ bản của dữ liệu video và làm giảm chất lượng của các bản tóm tắt đã tạo.
 - Các câu hỏi đặt ra:
     - Làm cách nào để biết mà phân cảnh quay?
     - Nó có làm mất hay làm giảm chất lượng của video kết quả không?
