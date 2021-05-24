@@ -1,5 +1,5 @@
 
-Link: QT31: 
+Link Paper: 
 https://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf
 
 Link Slide: 
